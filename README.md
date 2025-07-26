@@ -5,15 +5,6 @@
   10+ years optimizing service delivery and driving operational efficiency across enterprise platforms. Experienced in administration, development, and large-scale ITSM migrations.
   Proven track record in custom Salesforce & ServiceNow app design, workflow automation, and boosting productivity while ensuring collaboration and ITIL-aligned best practices.
 
-  Key Skills:
-  - ServiceNow & Salesforce admin, dev & integration
-  - ITSM process design & automation
-  - Custom apps & data quality initiatives
-  - Cross-functional collaboration & user enablement
-
-  Passionate about leveraging technology for growth. Let’s connect! 
-
-
 <h5>🏆 My Certifications ... </h5>
   <a href="https://trailhead.salesforce.com/en/credentials/verification/"><img height="50" alt="2021-03_Badge_SF-Certified_Administrator_High-Res" src="https://github.com/user-attachments/assets/589bd6e7-5ec0-4abf-b954-8f9dfca73c24"/></a>
   <a href="https://trailhead.salesforce.com/en/credentials/verification/"><img height="50" alt="2021-03_Badge_SF-Certified_Platform-App-Builder_High-Res" src="https://github.com/user-attachments/assets/dcee6e38-b30d-4eed-9f15-4fdace093d0f"/></a>
