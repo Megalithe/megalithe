@@ -1,4 +1,4 @@
-## Hi there, I'm Megalithe,
+## Hi there, I'm Gabriel McGinn,
 
 <h4>🖥️ About Me</h4>
 <div>   
